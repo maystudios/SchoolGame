@@ -25,7 +25,7 @@ Welcome to the GitHub repository for *VisualNovelCreator*! This repository conta
 - Memory: 8 GB RAM
 - Graphics: NVIDIA GeForce GTX 770 / AMD Radeon R9 280 or better
 - DirectX: Version 11
-- Storage: 5 GB available space
+- Storage: 1 GB available space
 
 ## Installation
 
@@ -37,7 +37,7 @@ Welcome to the GitHub repository for *VisualNovelCreator*! This repository conta
 ## Usage
 
 1. Open the project in the Unreal Engine and wait for all necessary files to load.
-2. Navigate to the `VisualNovelCreator` folder and open the `VisualNovelEditor` level.
+2. Navigate to the `Game/Core/Systems/Dialogue` folder and open the `DataTabels` level.
 3. Use the in-editor tools and panels to design your visual novel's scenes, characters, and dialogue.
 4. Save your progress and export your visual novel for others to enjoy.
 
@@ -47,14 +47,14 @@ We welcome anyone who wants to contribute to the development of *VisualNovelCrea
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE.md) file for details.
+This project is licensed under the Apache 2.0 License - see the [LICENSE.md](./LICENSE.md) file for details.
 
 ## Contact
 
 If you have any questions, suggestions, or feedback, please don't hesitate to contact us:
 
-- Developer: John Doe - johndoe@email.com
-- Project Link: https://github.com/johndoe/VisualNovelCreator
+- Developer: Sven Maibaum - svenmaibaum21@gmail.com
+- Project Link: https://github.com/maystudios/SchoolGame
 
 We hope you enjoy creating and sharing visual novels with *VisualNovelCreator*!
 
@@ -91,7 +91,7 @@ You can contribute to the project's development by viewing issues marked with "h
 
 This project was created using the following resources:
 
-- [Unreal Engine 4](https://www.unrealengine.com/)
+- [Unreal Engine 5](https://www.unrealengine.com/)
 - [Epic Games Launcher](https://www.epicgames.com/store/download)
 - [Free Sound Effects](https://www.freesoundeffects.com/)
 - [Creative Commons Images](https://creativecommons.org/use-remix/cc-search/)
