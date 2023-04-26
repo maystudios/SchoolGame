@@ -29,7 +29,7 @@ Welcome to the GitHub repository for *VisualNovelCreator*! This repository conta
 
 ## Installation
 
-1. Ensure you have the [Epic Games Launcher](https://www.epicgames.com/store/download) and [Unreal Engine 4.27](https://www.unrealengine.com/download) installed.
+1. Ensure you have the [Epic Games Launcher](https://www.epicgames.com/store/download) and [Unreal Engine 5.1.1](https://www.unrealengine.com/download) installed.
 2. Clone this repository or download it as a ZIP archive.
 3. Extract the ZIP archive (if downloaded) to a folder of your choice.
 4. Open the project in the Epic Games Launcher by clicking on "Browse" and selecting the folder containing the `.uproject` file.
